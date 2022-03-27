@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0f9594e87681A503C1617DB0Eb79Ae5C522C79c8",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0f9594e87681A503C1617DB0Eb79Ae5C522C79c8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "2k22 Bored Apes",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 2022,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
